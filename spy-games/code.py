@@ -89,113 +89,113 @@ print(secret_msg)
 
 
 
-    #Opening of the file located in the path in 'read' mode
+    #Opening of
     
-    #Reading of the first line of the file and storing it in a variable
     
-    #Closing of the file
     
-    #Returning the first line of the file
+    
+    
+    
     
     
 
-#Calling the function to read f
-    
-    
-    #Integer division of two numbers
-    
-    #Returning the quotient in string format
-    
-#Calling the function to read file  
 
-#Calling the function to read file
+    
+    
+    
+    
+    
+    
 
 
-#Calling the function 'fuse_msg'
+
+
+
+
 
 
 #Printing the secret message 
 
 
 
-#Function to substitute the message
-    
-    #If-else to compare the contents of the file
-    
-    
-    #Returning the substitute of the message
-    
-    
-
-#Calling the function to read file
-
-
-#Calling the function 'substitute_msg'
-
-
-#Printing the secret message
-
-
-
-#Function to compare message
 
     
-    #Splitting the message into a list
     
     
-    #Splitting the message into a list
     
     
-    #Comparing the elements from both the lists
-    
-    
-    #Combining the words of a list back to a single string sentence
-    
-    
-    #Returning the sentence
     
     
 
-#Calling the function to read file
 
 
-#Calling the function to read file
 
 
-#Calling the function 'compare messages'
 
 
-#Printing the secret message
 
 
-#Function to filter message
+
+
+
 
     
-    #Splitting the message into a list
+   
+    
+    
 
     
-    #Creating the lambda function to identify even length words
+    
+
     
     
-    #Splitting the message into a list
     
     
-    #Combining the words of a list back to a single string sentence
+    
+ 
     
     
-    #Returning the sentence
-    
-    
-#Calling the function to read file
 
 
-#Calling the function 'filter_msg'
 
 
-#Printing the secret message
 
 
-#Secret message parts in the correct order
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+   
+    
+    
+
+    
+    
+   
+    
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
 
 
 
